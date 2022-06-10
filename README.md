@@ -1,2 +1,2 @@
 # Netfix_clone
-Clone de site de stream
+Clone do site de stream
